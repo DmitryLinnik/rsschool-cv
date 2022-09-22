@@ -7,6 +7,7 @@
 ## Git
 ## Figma
 ## Photoshop
+## art
 # Code example
 # function truncate(str, maxlength) {
 #  let newStr;
